@@ -1,0 +1,24 @@
+{
+    "mass": 0.39684,
+    "friction": "friction_2",
+    "med_med": {
+        "friction_th": 0.025853007342702704,
+        "friction_exp": 0.018120074155296834,
+        "omega_th": 5.252323657155465,
+        "omega_exp": 5.25536851
+    },
+    "fat_fat": {
+        "friction_th": 0.025853007342702704,
+        "friction_exp": 0.018886566307449705,
+        "omega_th": 2.3545267015490885,
+        "omega_exp": 2.44256579
+    },
+    "damp_med_med_2": {
+        "damping_rel": "1",
+        "T": 1.3093804219469234
+    },
+    "damp_med_med_3": {
+        "damping_rel": "2",
+        "T": 1.332407002118285
+    }
+}
